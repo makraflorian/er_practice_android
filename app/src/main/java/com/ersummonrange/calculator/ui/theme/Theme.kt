@@ -1,4 +1,4 @@
-package com.example.ersummonrangecalculator.ui.theme
+package com.ersummonrange.calculator.ui.theme
 
 import android.app.Activity
 import android.os.Build

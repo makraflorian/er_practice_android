@@ -1,4 +1,4 @@
-package com.example.ersummonrangecalculator.ui.theme
+package com.ersummonrange.calculator.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

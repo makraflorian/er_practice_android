@@ -1,4 +1,4 @@
-package com.example.ersummonrangecalculator
+package com.ersummonrange.calculator
 
 import org.junit.Test
 

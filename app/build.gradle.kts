@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ersummonrangecalculator"
+    namespace = "com.ersummonrange.calculator"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.ersummonrangecalculator"
+        applicationId = "com.ersummonrange.calculator"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
