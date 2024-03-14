@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">ER Summon Range Calculator</string>
+    <string name="ranges_title">Summon Range Calculator</string>
+    <string name="rune_level">Rune Level</string>
+    <string name="weapon_level">Weapon Level</string>
+    <string name="is_somber">is Somber</string>
+
+    <string name="coop_ranges">COOP Ranges</string>
+    <string name="pvp_ranges">PVP Ranges</string>
+    <string name="weapon_ranges">Weapon Ranges</string>
+
+    <string name="can_summon">Can Summon</string>
+    <string name="can_be_summoned_by">Can be Summoned by</string>
+    <string name="can_invade">Can Invade</string>
+    <string name="can_be_invaded_by">Can be Invaded by</string>
+    <string name="regular_weapon">Regular Weapon</string>
+    <string name="somber_weapon">Somber Weapon</string>
 </resources>
